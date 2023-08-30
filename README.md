@@ -1,4 +1,4 @@
-# Hi there 👋 , I'm Deni!
+# Hi there 👋 , I'm Kenneth!
 Currently working with Freelance Full Stack, but I love learn new thing in programming such as HTML, CSS,Javascript,Java, Python. 
 
 ### Tools:
