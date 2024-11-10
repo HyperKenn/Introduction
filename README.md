@@ -15,7 +15,7 @@ Currently working with Freelance Full Stack, but I love learn new thing in progr
 </details>
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=HyperKenn&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyperKenn" height=200 />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyperKenn" height=200 width=200/>
     
 </p>
 
