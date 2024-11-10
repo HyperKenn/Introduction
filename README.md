@@ -1,5 +1,5 @@
 # Hi there 👋 , I'm Kenneth!
-Currently working with Freelance Full Stack, but I love learn new thing in programming such as HTML, CSS,Javascript,Java, Python. 
+Currently working with Freelance Full Stack, but I love learn new thing in programming such as HTML, CSS,Javascript, Java, Python. 
 
 ### Tools:
 <p>
@@ -10,16 +10,15 @@ Currently working with Freelance Full Stack, but I love learn new thing in progr
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
     - 🔭 I’m currently Working as Freelance FullStack Developer. </br>
-    - 🌱 I’m currently learning HTML, CSS, Javascript, Java, Python and Going to learning PHP. </br>
+    - 🌱 I’m currently learning HTML, CSS, Javascript, Java, Python, C, C++ and now Going to learning PHP and ReactJS. </br>
     - 👯 💬 Ask me about my project by my email </br>
 </details>
 <p>
 <!--     <img src="https://github-readme-stats.vercel.app/api?username=HyperKenn&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" /> -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyperKenn" width=300px>
-    
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyperKenn&layout=compact&langs_count=8" >  
 </p>
 
-### Let's connect!
+### Let's connect and make a project together!!
 <p>
 <!--     <a href="https://bagusfe.id" target="blank"><img src="https://img.shields.io/badge/Website-https://bagusfe.com-green?" /></a>
     <a href="https://linkedin.bagusfe.com" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=linkedin" /></a>
