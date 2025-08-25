@@ -44,3 +44,11 @@ As a student, I’m constantly learning and practicing software development thro
     <a href="https://tw.bagusfe.com" target="blank"><img src="https://img.shields.io/badge/@bagusfe_-30302f?style=flat&logo=twitter" /></a>
     <a href="https://www.paypal.me/gewdfe" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a> -->
 </p>
+
+<!-- ### Stats:
+<details>
+ <summary><strong>What i am learning/working on these days</strong></summary>
+    - 🔭 I’m currently Working as Freelance FullStack Developer. </br>
+    - 🌱 I’m currently learning HTML, CSS, Javascript, Java, Python, C, C++ and now Going to learning PHP and ReactJS. </br>
+    - 👯 💬 Ask me about my project by my email </br>
+</details> -->
