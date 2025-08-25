@@ -1,20 +1,38 @@
 # Hi there 👋 , I'm Kenneth!
-Currently working with Freelance Full Stack, but I love learn new thing in programming such as HTML, CSS,Javascript, Java, Python. 
+Welcome to my GitHub profile! 
+Hi, I'm **Kenneth Arianto** — a passionate **Software Developer** and a **third-year Computer Science student at UBC, Vancouver**.  
 
-### Tools:
-<p>
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-</p>
+As a student, I’m constantly learning and practicing software development through personal and academic projects. I enjoy building projects that challenge me and let me explore new technologies.  I love picking up new skills in programming and exploring different areas of software development.  
 
-### Stats:
-<details>
- <summary><strong>What i am learning/working on these days</strong></summary>
-    - 🔭 I’m currently Working as Freelance FullStack Developer. </br>
-    - 🌱 I’m currently learning HTML, CSS, Javascript, Java, Python, C, C++ and now Going to learning PHP and ReactJS. </br>
-    - 👯 💬 Ask me about my project by my email </br>
-</details>
+---
+### 📌 What I'm Up To
+- 🌐 Exploring Full-Stack development projects  
+- 💻 Deepening knowledge in Data Structures and Back-End Development 
+- 📖 Continuously learning new programming concepts  
+- 🔨 Building projects and exploring new technologies and knowledge
+
+---
+
+### 💻 🚀 Languages & Tools
+
+- **Languages**:   &nbsp;&nbsp;&nbsp;&nbsp;  C/C++, Java, Python, Assembly, Racket, LaTeX, Markdown, R  
+- **Data/Analysis**: pandas, NumPy, Altair, dplyr, tidyr, infer  
+- **Web**:    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       HTML, CSS, JavaScript, React, Node.js  
+- **Tools**:        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Git, GitHub, VS Code, IntelliJ, Jupyter Notebooks  
+- **Testing**:     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  JUnit, GDB  
+
+---
+
+### 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/kenneth-arianto/)  
+- [Email](mailto:kennethyo2005@gmail.com)  
+
+---
+⭐️ Thanks for visiting my profile!
+
+
 <p>
-<!--     <img src="https://github-readme-stats.vercel.app/api?username=HyperKenn&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" /> -->
+    <!-- <img src="https://github-readme-stats.vercel.app/api?username=HyperKenn&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" /> -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyperKenn&layout=compact&langs_count=8" >  
 </p>
 
